@@ -1,0 +1,33 @@
+.Projects {
+  margin-top: 3rem;
+  margin-bottom: 8rem;
+}
+
+.Project-card {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: whitesmoke;
+  flex-wrap: wrap;
+}
+
+.card-title {
+  font-family: DM Sans;
+  font-size: 2rem;
+  position: relative;
+}
+
+.card-popis {
+  font-family: DM Sans;
+  font-size: 2rem;
+  position: relative;
+}
+.card-video video {
+  width: 100%;
+  border-radius: 2rem;
+}
+
+.card-video {
+  width: 70%;
+}
